@@ -7,4 +7,7 @@
 
 💡 Acredito no poder da colaboração e na construção coletiva de conhecimento. Vamos codificar o futuro juntos!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibelalima&layout=compact)
+
+
 
