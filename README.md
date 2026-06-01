@@ -40,7 +40,14 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibelalima&layout=compact)
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibelalima&show_icons=true&theme=whitel&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibelalima&layout=compact&langs_count=8&theme=whithl&count_private=true"/>
+
+</div>
 
 
 
